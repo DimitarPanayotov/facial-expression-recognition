@@ -1,0 +1,39 @@
+# Documentation (draft)
+ML_project_documentation.ipynb
+
+# Data files (too large for git)
+data/
+*.csv
+*.zip
+
+# Model weights (large binary files)
+models/
+*.h5
+*.keras
+*.pkl
+*.joblib
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
