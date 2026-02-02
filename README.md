@@ -4,7 +4,7 @@ Machine learning project for FMI course. Classifies facial expressions into 7 em
 
 ## Team
 - Dimitar Panayotov 
-- Stefan Tabaakov 
+- Stefan Tabakov 
 
 ## Setup
 ```bash
